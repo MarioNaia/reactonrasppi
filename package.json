@@ -23,6 +23,7 @@
       "react-app/jest"
     ]
   },
+  "private": true,
   "browserslist": {
     "production": [
       ">0.2%",
